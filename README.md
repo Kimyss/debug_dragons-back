@@ -11,7 +11,8 @@
 
 ## 😶 역할
 - ERD
-  ![erd 2024-12-26 183851](https://github.com/user-attachments/assets/18b56b61-ba84-4d77-b626-10cf3b291889)
+<img width = "80%" src = "https://github.com/user-attachments/assets/18b56b61-ba84-4d77-b626-10cf3b291889" >
+
 - 회원가입, 로그인, 아이디(이름과 이메일 이용) 찾기
 <img width="30%" src="https://github.com/user-attachments/assets/3db51f4c-5c88-4277-8e76-3bafaf7f872f" >
 <br> <br>
