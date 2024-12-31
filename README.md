@@ -10,7 +10,7 @@
 - DataBase : MariaDB🐬
 
 ## 😶 역할
-- ERD
+- ERD 구성
 <img width = "80%" src = "https://github.com/user-attachments/assets/18b56b61-ba84-4d77-b626-10cf3b291889" >
 
 - 회원가입, 로그인, 아이디(이름과 이메일 이용) 찾기
